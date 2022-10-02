@@ -1,0 +1,24 @@
+.content-header{
+    padding: 150px;
+    background-image: url(resim.1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.content{
+    background-color: darkgray;
+}
+ .img-2 img{
+    width: 650px;
+    height: 300px;
+}
+.cart{
+    background-color: white;
+    margin: 30px;
+    cursor: pointer;
+   
+}
+.cart-img img{
+    width: 100%;
+    height: 300px;
+}
